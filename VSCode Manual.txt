@@ -1,0 +1,88 @@
+설치 사이트: https://code.visualstudio.com/
+
+
+
+
+
+원하는 메뉴 검색: Shift + Ctrl + P
+
+
+폴더 열기: Ctrl + O
+
+
+HTML 자동 구조 완성: !입력 + Tab
+
+
+마켓플레이스 확장 검색: Ctrl + Shift + X
+
+
+Korean Language Pack for Visual Studio Code: VS Code용 한국어 팩
+
+
+Beautify: Code 정리하는 기능
+HookyQR.beautify 복사하기
+파일 - 기본 설정 - 바로 가기 키 - HookyQR.beautify - Beautify Selection(Ctrl + Shift + L)
+
+
+Auto Rename Tag: 태그를 쌍으로 변경 해주는 기능
+
+
+Live Server(Five Server): 임시로(컴퓨터 환경) 서버를 오픈하는 것
+우클릭 - Open with Five Server
+
+
+
+
+단축키:
+
+사이드 바(Side Bar) 열고/닫기
+MacOS: Cmd + B
+Windows: Ctrl + B
+
+빠른 열기(파일이나 기호 탐색)
+MacOS: Cmd + P
+Windows: Ctrl + P
+
+모든 명령 표시(에디터의 모든 명령에 접근)
+MacOS: Cmd + Shift + P
+Windows: Ctrl + Shift + P
+
+찾기(검색)
+MacOS: Cmd + F
+Windows: Ctrl + F
+
+찾기(검색)/바꾸기(대체)
+MacOS: Cmd + Alt(Opt) + F
+Windows: Ctrl + H
+
+줄 위/아래로 이동
+MacOS: Alt(Opt) + Up/Down 
+Windows: Alt + Up/Down
+
+위/아래에 줄 복사 
+MacOS: Alt(Opt) + Shift + Down/Up
+Windows: Alt + Shift + Down/Up
+
+되돌리기
+MacOS: Cmd + Z
+Windows: Ctrl + Z
+
+들여쓰기(Indent)
+MacOS: Tab
+Windows: Tab
+
+내어쓰기(Outdent)
+MacOS: Shift + Tab
+Windows: Shift +  Tab
+
+Beautify(정리된 코드 만들기)
+MacOS: Cmd + Alt(Otp) + L
+Windows: Ctrl + Alt +  L
+
+이전 편집기 열기(좌측/우측 창으로 전환)
+MacOS: Cmd + Shift + [, ]
+Windows: Ctrl + PageUp, PageDown
+
+편집기 분할(백슬래쉬)
+MacOS: Cmd + \
+Windows: Ctrl + \
